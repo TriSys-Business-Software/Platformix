@@ -4,4 +4,4 @@ https://www.platformix.co.uk
 
 Version History
 ---------------
-Friday 22 May 2020 @ 15:29 - Change.
+Friday 22 May 2020 @ 15:36 - Change inside Visual Studio Code.
